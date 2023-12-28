@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("resolved");
+        System.out.println("something in new branch (GUI)");
     }
 }
