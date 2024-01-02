@@ -1,0 +1,7 @@
+.idea
+
+out
+
+untitled
+
+GIT_Try.iml
