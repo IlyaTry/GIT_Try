@@ -1,10 +1,13 @@
+.idea\
+untitled\
+GIT_Try.iml
+
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea\
-untitled\
-GIT_Try.iml
+
 
 ### Eclipse ###
 .apt_generated
