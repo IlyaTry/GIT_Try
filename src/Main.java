@@ -3,5 +3,8 @@ public class Main {
         System.out.println("Main");
         System.out.println("something in new branch (GUI) second");
         System.out.println("Here is merge");
+
+
+        System.out.println("gitignore");
     }
 }

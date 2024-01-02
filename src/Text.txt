@@ -1,7 +1,7 @@
-.idea
+.idea\
 
-out
+out\
 
-untitled
+untitled\
 
 GIT_Try.iml
